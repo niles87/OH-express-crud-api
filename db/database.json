@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jack",
+    "phonenumber": "555-5555",
+    "details": "Wants backend of new website up and running",
+    "complete": true,
+    "id": "2f9b6af-8"
+  },
+  {
+    "name": "Sasha",
+    "phonenumber": "1234567",
+    "details": "New opportunity to relocate for 12 month job, call back soon",
+    "id": "1c80328-e",
+    "complete": false
+  },
+  {
+    "name": "Mary",
+    "phonenumber": "1111111",
+    "details": "Existing Client needs website updated to use React",
+    "id": "f9bc761-8",
+    "complete": false
+  }
+]
